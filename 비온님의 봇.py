@@ -5,7 +5,7 @@ from discord import embeds
 
 client = discord.Client()
 
-token = "ODUzOTgzNjUwMDczMTQ5NDUw.YMdUQA.M7pTmzDQd1pPPcBvMmJBTEDgvcE"
+token = "ODUzOTgzNjUwMDczMTQ5NDUw.YMdUQA.rT8bZnv6RtTMrr9geioBQNXoWvA"
 
 @client.event
 async def on_ready():
